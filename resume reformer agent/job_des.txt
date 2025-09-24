@@ -1,0 +1,5 @@
+Hiring for AI Engineer:
+- Experience with LangChain, Vector DBs, GPT, Prompt Engineering.
+- Should understand RAG pipelines and build agent systems.
+
+

@@ -1,0 +1,1221 @@
+{
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "ABHIVANTH R",
+        "author": "Abhivanth R",
+        "subject": "",
+        "keywords": "DAGoo8ib94A,BAFwkAknrtA,0",
+        "creator": "Canva",
+        "producer": "Canva",
+        "creationDate": "D:20250626131507+00'00'",
+        "modDate": "D:20250626131506+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "page_count": 1,
+    "pages": [
+        {
+            "page_number": 1,
+            "size": {
+                "width": 595.5,
+                "height": 842.25
+            },
+            "blocks": [
+                {
+                    "bbox": [
+                        199.51666259765625,
+                        17.558578491210938,
+                        402.90252685546875,
+                        45.56663513183594
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "ABHIVANTH R",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 28.008054733276367,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    199.51666259765625,
+                                    17.558578491210938,
+                                    402.90252685546875,
+                                    45.56663513183594
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        40.40892791748047,
+                        106.09028625488281,
+                        112.07103729248047,
+                        119.09268951416016
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "SUMMARY",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 13.002399444580078,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    40.40892791748047,
+                                    106.09028625488281,
+                                    112.07103729248047,
+                                    119.09268951416016
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        40.40892791748047,
+                        126.13362121582031,
+                        559.3309936523438,
+                        152.138427734375
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "Innovative tech enthusiast skilled in advanced programming, ML, IoT, and app development, with hands-on",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    40.40892791748047,
+                                    126.13362121582031,
+                                    559.3309936523438,
+                                    137.1327667236328
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "project experience. Strong communicator and multitasker, aspiring to excel as a machine learning engineer.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    40.40892791748047,
+                                    141.1392822265625,
+                                    539.7552490234375,
+                                    152.138427734375
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        40.40892791748047,
+                        289.664306640625,
+                        110.84877014160156,
+                        302.6667175292969
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "PROJECTS",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 13.002399444580078,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    40.40892791748047,
+                                    289.664306640625,
+                                    110.84877014160156,
+                                    302.6667175292969
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        34.02857208251953,
+                        760.7591552734375,
+                        115.844482421875,
+                        773.7615356445312
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "EDUCATION",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 13.002399444580078,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    34.02857208251953,
+                                    760.7591552734375,
+                                    115.844482421875,
+                                    773.7615356445312
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        39.621429443359375,
+                        312.7087707519531,
+                        541.5362548828125,
+                        668.8379516601562
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "Versatile Mini Robot ",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    312.7087707519531,
+                                    139.40325927734375,
+                                    323.7079162597656
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": "\u2013 Completed",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    139.40902709960938,
+                                    312.7087707519531,
+                                    199.09889221191406,
+                                    323.7079162597656
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Designed a multifunctional robot with features like object recognition, color detection, QR/text scanning,",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    327.71441650390625,
+                                    541.5362548828125,
+                                    338.71356201171875
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "translation, and virtual assistance.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    342.7200927734375,
+                                    199.3885955810547,
+                                    353.71923828125
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Technologies ",
+                                "font": "TimesNRMTPro-Italic",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    357.7257385253906,
+                                    101.83963012695312,
+                                    368.7248840332031
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": ": Python, OpenCV, Raspberry Pi, Sensors",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    101.8479995727539,
+                                    357.7257385253906,
+                                    297.2547607421875,
+                                    368.7248840332031
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "NDT Robot for Crack/Defect Detection",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    372.73138427734375,
+                                    222.4595947265625,
+                                    383.73052978515625
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " \u2013 Completed",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    222.46766662597656,
+                                    372.73138427734375,
+                                    284.9066162109375,
+                                    383.73052978515625
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Built an autonomous mini robot using ultrasonic, infrared, and eddy current sensors for real-time crack",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    387.7370300292969,
+                                    541.5308837890625,
+                                    398.7361755371094
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "detection with OpenCV and ML.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    402.7427062988281,
+                                    194.28623962402344,
+                                    413.7418518066406
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Technologies",
+                                "font": "TimesNRMTPro-Italic",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    417.74835205078125,
+                                    99.09090423583984,
+                                    428.74749755859375
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " : Python, OpenCV, Sensors, ML , Raspberry Pi",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    99.09305572509766,
+                                    417.74835205078125,
+                                    323.94775390625,
+                                    428.74749755859375
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Loyalty Prediction System",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    432.7539978027344,
+                                    161.73834228515625,
+                                    443.7531433105469
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " (Sports Teams) \u2013 Completed",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    161.74166870117188,
+                                    432.7539978027344,
+                                    298.27423095703125,
+                                    443.7531433105469
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Developed an ML model to analyze fan engagement and predict loyalty trends, improving prediction",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    447.7596740722656,
+                                    541.5311279296875,
+                                    458.7588195800781
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "accuracy by 20%.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    462.76531982421875,
+                                    120.9623794555664,
+                                    473.76446533203125
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Technologies",
+                                "font": "TimesNRMTPro-Italic",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    477.7709655761719,
+                                    99.09090423583984,
+                                    488.7701110839844
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " : Python, Scikit-learn",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    99.09305572509766,
+                                    477.7709655761719,
+                                    201.1519775390625,
+                                    488.7701110839844
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "College Chatbot",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    492.7766418457031,
+                                    114.08981323242188,
+                                    503.7757873535156
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " \u2013 In Progress",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    114.09870910644531,
+                                    492.7766418457031,
+                                    178.1096954345703,
+                                    503.7757873535156
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Creating an AI-powered chatbot for automating admissions, events, food orders, and exam prep with ",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    507.7822570800781,
+                                    515.869873046875,
+                                    518.7813720703125
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "real-time data access for our own college.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    522.7879028320312,
+                                    232.3007354736328,
+                                    533.7870483398438
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Technologies",
+                                "font": "TimesNRMTPro-Italic",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    537.7935791015625,
+                                    99.09090423583984,
+                                    548.792724609375
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " : Python, Langchain , NLP, Flutter",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    99.09305572509766,
+                                    537.7935791015625,
+                                    267.1407470703125,
+                                    548.792724609375
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Autonomous Drainage Cleaning Robot",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    552.7991943359375,
+                                    216.3781280517578,
+                                    563.79833984375
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " \u2013 In Progress",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    216.3833465576172,
+                                    552.7991943359375,
+                                    280.3943176269531,
+                                    563.79833984375
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Designing a semi-autonomous robot using IoT and ML for detecting and clearing drain blockages with",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    567.8048706054688,
+                                    541.532958984375,
+                                    578.8040161132812
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "real-time monitoring.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    582.8104858398438,
+                                    139.73321533203125,
+                                    593.8096313476562
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Technologies",
+                                "font": "TimesNRMTPro-Italic",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    597.816162109375,
+                                    99.09090423583984,
+                                    608.8153076171875
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " : Raspberry Pi, OpenCV, Tensorflow , Pytorch",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    99.09305572509766,
+                                    597.816162109375,
+                                    320.62762451171875,
+                                    608.8153076171875
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Exhibit Defect Detection System",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    612.8218383789062,
+                                    189.70213317871094,
+                                    623.8209838867188
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " \u2013 In Progress",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    189.701416015625,
+                                    612.8218383789062,
+                                    253.71237182617188,
+                                    623.8209838867188
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Building an AI-CNN-based system integrated with IoT for detecting defects in museum exhibits and",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    627.8274536132812,
+                                    541.529296875,
+                                    638.8265991210938
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "enabling predictive maintenance.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    642.8331298828125,
+                                    193.37355041503906,
+                                    653.832275390625
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Technologies",
+                                "font": "TimesNRMTPro-Italic",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    39.621429443359375,
+                                    657.8388061523438,
+                                    99.09090423583984,
+                                    668.8379516601562
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " : Python, TensorFlow, CNN, Raspberry Pi",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    99.09305572509766,
+                                    657.8388061523438,
+                                    303.3294982910156,
+                                    668.8379516601562
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        40.40892791748047,
+                        182.3190155029297,
+                        150.93060302734375,
+                        195.3214111328125
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "SKILLS & TOOLS",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 13.002399444580078,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    40.40892791748047,
+                                    182.3190155029297,
+                                    150.93060302734375,
+                                    195.3214111328125
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        58.319881439208984,
+                        205.91612243652344,
+                        400.704833984375,
+                        261.9322204589844
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "Languages: ",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    58.319881439208984,
+                                    205.91612243652344,
+                                    113.42342376708984,
+                                    216.91526794433594
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": "Python, C, Java, R, SQL (MySQL) ",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    113.43048858642578,
+                                    205.91612243652344,
+                                    281.0314636230469,
+                                    216.91526794433594
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " ",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    281.03662109375,
+                                    205.91612243652344,
+                                    283.7864074707031,
+                                    216.91526794433594
+                                ],
+                                "alignment": "center"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Frameworks/Libraries: ",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    58.319881439208984,
+                                    220.92178344726562,
+                                    165.98611450195312,
+                                    231.92092895507812
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": "TensorFlow, PyTorch, OpenCV, Scikit-learn",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    165.98544311523438,
+                                    220.92178344726562,
+                                    375.973876953125,
+                                    231.92092895507812
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": "  ",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    375.9825439453125,
+                                    220.92178344726562,
+                                    381.4814147949219,
+                                    231.92092895507812
+                                ],
+                                "alignment": "right"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Tools:",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    58.319881439208984,
+                                    235.92742919921875,
+                                    86.8452377319336,
+                                    246.92657470703125
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " GitHub, Raspberry Pi, Adafruit QT PY RP2040, Blender ",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    86.85406494140625,
+                                    235.92742919921875,
+                                    361.1944580078125,
+                                    246.92657470703125
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " ",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    361.1996154785156,
+                                    235.92742919921875,
+                                    363.94940185546875,
+                                    246.92657470703125
+                                ],
+                                "alignment": "right"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Soft Skills:",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    58.319881439208984,
+                                    250.93307495117188,
+                                    109.39879608154297,
+                                    261.9322204589844
+                                ],
+                                "alignment": "left"
+                            },
+                            {
+                                "text": " Problem-Solving, Leadership, Communication, Multi-tasking",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    109.4094467163086,
+                                    250.93307495117188,
+                                    400.704833984375,
+                                    261.9322204589844
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        34.02857208251953,
+                        779.35693359375,
+                        271.6068115234375,
+                        790.3560791015625
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "K P R Institute of Engineering and Technology",
+                                "font": "TimesNRMTPro-SemiBold",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    34.02857208251953,
+                                    779.35693359375,
+                                    271.6068115234375,
+                                    790.3560791015625
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        34.02857208251953,
+                        799.4075317382812,
+                        372.923828125,
+                        840.41796875
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "B.E. Computer Science and Engineering with Specialization in AIML",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    34.02857208251953,
+                                    799.4075317382812,
+                                    372.923828125,
+                                    810.4066772460938
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "CGPA : 8.8",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    34.02857208251953,
+                                    814.4131469726562,
+                                    90.54163360595703,
+                                    825.4122924804688
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "2023-2027",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    34.02857208251953,
+                                    829.4188232421875,
+                                    83.43783569335938,
+                                    840.41796875
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        189.8134307861328,
+                        48.97540283203125,
+                        416.96600341796875,
+                        61.97780227661133
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "Aspiring AI/ML Engineer | IoT Developer",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 13.002399444580078,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    189.8134307861328,
+                                    48.97540283203125,
+                                    416.96600341796875,
+                                    61.97780227661133
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        502.2705383300781,
+                        288.3846130371094,
+                        557.9212036132812,
+                        298.986083984375
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "Project Files",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 10.601494789123535,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    502.2705383300781,
+                                    288.3846130371094,
+                                    557.9212036132812,
+                                    298.986083984375
+                                ],
+                                "alignment": "right"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        49.309814453125,
+                        69.21550750732422,
+                        538.5135498046875,
+                        80.21464538574219
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "     abhivanthr39@gmail.com | LinkedIn: linkedin.com/in/abhivanth  | LeetCode: leetcode.com/abhivanth",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999139785766602,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    49.309814453125,
+                                    69.21550750732422,
+                                    538.5135498046875,
+                                    80.21464538574219
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "bbox": [
+                        34.02857208251953,
+                        686.2637329101562,
+                        557.000244140625,
+                        743.7085571289062
+                    ],
+                    "lines": [
+                        [
+                            {
+                                "text": "ACHIEVEMENTS",
+                                "font": "TimesNRMTPro-Bold",
+                                "size": 13.002399444580078,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    34.02857208251953,
+                                    686.2637329101562,
+                                    143.21115112304688,
+                                    699.26611328125
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Patents : 1",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    37.49464416503906,
+                                    702.6981201171875,
+                                    88.26730346679688,
+                                    713.697265625
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Successfully submitted the Autonomous Drainage Cleaning Robot project proposal to ICSSR and ANRF,",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    37.49464416503906,
+                                    717.7037353515625,
+                                    557.000244140625,
+                                    728.702880859375
+                                ],
+                                "alignment": "left"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "showcasing the potential for innovative solutions in urban sanitation and environmental sustainability.",
+                                "font": "TimesNRMTPro",
+                                "size": 10.999144554138184,
+                                "color": "#1d1d1d",
+                                "bbox": [
+                                    37.49464416503906,
+                                    732.7094116210938,
+                                    539.9591674804688,
+                                    743.7085571289062
+                                ],
+                                "alignment": "left"
+                            }
+                        ]
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "xref": 11,
+                    "width": 45,
+                    "height": 44,
+                    "bpc": 8,
+                    "base64": "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",
+                    "filename": "extracted_images/page1_img1.png"
+                }
+            ],
+            "annotations": [],
+            "links": [
+                {
+                    "type": "external",
+                    "uri": "https://drive.google.com/drive/folders/1x-10WMLlBWGktptuosKhFF3b-Cnh-VPk?usp=sharing"
+                },
+                {
+                    "type": "external",
+                    "uri": "https://www.linkedin.com/in/abhivanth-r-223b2b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                },
+                {
+                    "type": "external",
+                    "uri": "https://leetcode.com/u/Abhivanth_R/"
+                }
+            ],
+            "drawings": [
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                },
+                {
+                    "type": "clip",
+                    "rect": [],
+                    "points": [],
+                    "fill": null,
+                    "color": null,
+                    "width": 1,
+                    "fill_opacity": null,
+                    "stroke_opacity": null
+                }
+            ]
+        }
+    ]
+}

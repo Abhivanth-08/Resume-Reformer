@@ -1,0 +1,26 @@
+[
+    {
+        "title": "E commerce Website",
+        "description": "Developed an e-commerce website with features like product listing, shopping cart, and checkout process. Technologies: HTML, CSS, JavaScript, Node.js, MongoDB."
+    },
+    {
+        "title": "College Chatbot",
+        "description": "Built a chatbot for college students to access information like class schedules, assignments, and campus news. Technologies: Python, Dialogflow, Firebase."
+    },
+    {
+        "title": "Amazon Clone Website",
+        "description": "Created a replica of Amazon's website with features like product search, user reviews, and secure payment gateway. Technologies: HTML, CSS, JavaScript, Node.js, MongoDB."
+    },
+    {
+        "title": "Mini Versatile Robot",
+        "description": "Designed a multifunctional robot with features like object recognition, color detection, QR/text scanning, translation, and virtual assistance. Technologies: Python, OpenCV, Raspberry Pi, Sensors."
+    },
+    {
+        "title": "NDT",
+        "description": "Developed a non-destructive testing (NDT) software for defect detection in various materials. Technologies: Python, MATLAB, LabVIEW."
+    },
+    {
+        "title": "Loyalty Prediction",
+        "description": "Built a machine learning model to predict customer loyalty based on their purchasing behavior. Technologies: Python, Scikit-learn, TensorFlow."
+    }
+]

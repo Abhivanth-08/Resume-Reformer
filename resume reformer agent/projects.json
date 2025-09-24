@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Versatile Mini Robot",
+        "description": "Designed a multifunctional robot with features like object recognition, color detection, QR/text scanning, translation, and virtual assistance. Technologies: Python, OpenCV, Raspberry Pi, Sensors"
+    },
+    {
+        "title": "NDT Robot for Crack/Defect Detection",
+        "description": "Built an autonomous mini robot using ultrasonic, infrared, and eddy current sensors for real-time crack detection with OpenCV and ML. Technologies: Python, OpenCV, Sensors, ML, Raspberry Pi"
+    },
+    {
+        "title": "Loyalty Prediction System (Sports Teams)",
+        "description": "Developed an ML model to analyze fan engagement and predict loyalty trends, improving prediction accuracy by 20%. Technologies: Python, Scikit-learn"
+    },
+    {
+        "title": "College Chatbot",
+        "description": "Creating an AI-powered chatbot for automating admissions, events, food orders, and exam prep with real-time data access for our own college. Technologies: Python, Langchain, NLP, Flutter"
+    },
+    {
+        "title": "Autonomous Drainage Cleaning Robot",
+        "description": "Designing a semi-autonomous robot using IoT and ML for detecting and clearing drain blockages with real-time monitoring. Technologies: Raspberry Pi, OpenCV, Tensorflow, Pytorch"
+    },
+    {
+        "title": "Exhibit Defect Detection System",
+        "description": "Building an AI-CNN-based system integrated with IoT for detecting defects in museum exhibits and enabling predictive maintenance. Technologies: Python, TensorFlow, CNN, Raspberry Pi"
+    }
+]
